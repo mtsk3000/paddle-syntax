@@ -1,0 +1,15 @@
+{
+  "name": "paddle-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A vibrant Atom syntax theme brought to you by the design team at Paddle.com",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mtsk3000/paddle-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
