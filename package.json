@@ -1,7 +1,7 @@
 {
   "name": "paddle-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A vibrant Atom syntax theme brought to you by the design team at Paddle.com",
   "keywords": [
     "syntax",
